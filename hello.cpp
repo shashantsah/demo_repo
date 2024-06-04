@@ -4,7 +4,6 @@ using vb = vector<bool>;
 using vvb = vector<vb>;
 using vi = vector<int>;
 using vvi = vector<vi>;
-using vc = vector<char>;
 using vvc = vector<vc>;
 #define cy cout<<"YES\n"
 #define cn cout<<"NO\n"
