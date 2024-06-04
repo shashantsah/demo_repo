@@ -16,6 +16,8 @@ using vvc = vector<vc>;
   int n;
   cin>>n;
   cout<<n;
+  int r;
+  cin>>r;
          
  }
  signed main(){
