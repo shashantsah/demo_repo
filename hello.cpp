@@ -13,10 +13,9 @@ using vvc = vector<vc>;
  const int M=1e9+7;
 
  void solve(){
-  
-         
-     int n;
-     cin>>n;
+  int n;
+  cin>>n;
+  cout<<n;
          
  }
  signed main(){
