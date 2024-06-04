@@ -12,8 +12,11 @@ using vvc = vector<vc>;
 #define fast ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
  const int M=1e9+7;
 
+ void solve(){
   
          
+     int n;
+     cin>>n;
          
  }
  signed main(){
