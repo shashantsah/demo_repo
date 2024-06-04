@@ -13,5 +13,5 @@ int main()
     int a = 10, b = 20;
     int m = max(a, b);
     cout << "m is " << m;
-    return 0;
+    return m;
 }
